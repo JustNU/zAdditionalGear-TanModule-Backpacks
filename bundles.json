@@ -1,0 +1,60 @@
+{
+    "manifest": [
+		{
+            "key": "AddGearTan/Backpacks/berkut.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/daypack.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/beta2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/mbss.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/f4terminator.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/blackjack50.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Backpacks/medpack.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
