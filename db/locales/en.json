@@ -1,36 +1,36 @@
 {
 	"AddGearTan_F4Terminator": {
-        "Name": "Eberlestock F4 Terminator load bearing backpack (Desert Tan)",
+        "Name": "Eberlestock F4 Terminator load bearing backpack (Tan)",
 		"ShortName": "F4 Terminator",
 		"Description": "An extremely versatile full-format load bearing backpack for military use. Manufactured by Eberlestock."
     },
 	"AddGearTan_Blackjack50": {
-       "Name": "Mystery Ranch Blackjack 50 backpack (Desert Tan)",
+       "Name": "Mystery Ranch Blackjack 50 backpack (Tan)",
 		"ShortName": "Blackjack 50",
 		"Description": "A backpack made for long and successful raids, manufactured by Mystery Ranch."
     },
 	"AddGearTan_Beta2": {
-        "Name": "ANA Tactical Beta 2 Battle backpack (Desert Tan)",
+        "Name": "ANA Tactical Beta 2 Battle backpack (Tan)",
 		"ShortName": "Beta 2",
 		"Description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain."
     },
 	"AddGearTan_Medpack": {
-        "Name": "LBT-2670 Slim Field Med Pack (Desert Tan)",
+        "Name": "LBT-2670 Slim Field Med Pack (Tan)",
 		"ShortName": "SFMP",
 		"Description": "A low-profile medical backpack, designed to carry large amounts of specialized medical equipment and supplies. Manufactured by London Bridge Trading."
     },
 	"AddGearTan_MBSS": {
-        "Name": "Flyye MBSS Backpack (Desert Tan)",
+        "Name": "Flyye MBSS Backpack (Tan)",
 		"ShortName": "MBSS",
 		"Description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides."
     },
 	"AddGearTan_Daypack": {
-       "Name": "LBT-8005A Day Pack backpack (Desert Tan)",
+       "Name": "LBT-8005A Day Pack backpack (Tan)",
 		"ShortName": "Day Pack",
-		"Description": "A simple and reliable 14-liter backpack in Desert Tan color. Manufactured by London Bridge Trading."
+		"Description": "A simple and reliable 14-liter backpack in Tan color. Manufactured by London Bridge Trading."
     },
 	"AddGearTan_Berkut": {
-        "Name": "WARTECH Berkut BB-102 backpack (Desert Tan)",
+        "Name": "WARTECH Berkut BB-102 backpack (Tan)",
 		"ShortName": "Berkut",
 		"Description": "A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured in WARTECH."
     }
